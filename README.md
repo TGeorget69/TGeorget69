@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TGeorget69
 - 👀 I’m interested in acquiring new skills, and imrpoving those I already have.  
-- 🌱 I’m currently learning deeper skills in python. I want to learn about SQL and Java too. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 
 - 📫 
 
 <!---
